@@ -74,7 +74,7 @@ local T = {
 
     -- Fonts
     Bold    = Enum.Font.GothamBold
-    Semi    = Enum.Font.GothamSemibold
+    Semi    = Enum.Font.GothamBold
     Regular = Enum.Font.Gotham
 
     -- Radii
