@@ -73,9 +73,9 @@ local T = {
     Black        = Color3.fromRGB(0, 0, 0),
 
     -- Fonts
-    Bold         = Enum.Font.GothamBold,
-    Semi         = Enum.Font.GothamSemiBold,
-    Regular      = Enum.Font.Gotham,
+    Bold    = Enum.FontWeight.Bold
+    Semi    = Enum.FontWeight.SemiBold
+    Regular = Enum.FontWeight.Regular
 
     -- Radii
     RadiusWin    = UDim.new(0, 12),
